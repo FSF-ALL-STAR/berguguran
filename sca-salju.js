@@ -1,12 +1,12 @@
-<html>
 
-<head>
 
-</head>
 
-<body>
 
-<script>
+
+
+
+
+
 
 var snowmax=35
 
@@ -166,7 +166,7 @@ if (browserok) {
 
 </script>
 
-</body>
 
-</html>
+
+
 
