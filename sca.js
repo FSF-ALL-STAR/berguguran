@@ -1,4 +1,5 @@
-			/******************************************         * Snow Effect Script- By SCA |iL MmaaiilL
+<script>
+/******************************************         * Snow Effect Script- By SCA |iL MmaaiilL
 
          * Created : 29 July 2019
 
@@ -169,3 +170,4 @@
 					setTimeout("hidesnow()", hidesnowtime*1000)
 
 					}
+</script>
